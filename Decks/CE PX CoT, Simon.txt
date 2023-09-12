@@ -1,0 +1,68 @@
+Legality: Celestial
+City of Tears (GotE)
+
+Border Keep (Celestial)
+Bamboo Harvesters (Celestial)
+
+Asako Bairei - exp4
+Isawa Mizuhiko - exp
+Isawa Mitsuko
+Shiba Ningen - exp3
+Isawa Ochiai - exp3
+3 Agasha Gifu
+3 Isawa Shioki
+2 Isawa Mizuhiko
+2 Agasha Kamarou
+3 Asako Hoshimi
+3 Agasha Ueda
+
+3 Silver Mine (Celestial)
+The Imperial Treasury
+3 War Encampment
+3 Rich Coffers
+Belly of Fudo
+3 Wooden Barricade
+Traveling Peddler
+
+The Loss of the Soul
+Festival of Drifting Souls
+Private Shrine
+Shiba's Guidance
+
+Skipping the Puddle
+2 Balance in Water
+2 Chasing Osano-Wo
+
+2 Concealed Scroll
+2 Ritual of Binding
+
+3 Obfuscation
+
+Essence of Destruction
+In Aikune's Name
+Mastering the Elements
+Touch of the Infinite
+3 Consumed by Five Fires (Celestial)
+3 Touch of the Flames
+2 The Unmaking
+
+2 Wrath of the Thunder
+2 Consumption by Fire
+
+Unnatural Flood
+2 Servitors of Stone (GotE)
+2 Dance of the Kami
+2 Erosion
+
+Heavenly Yari of the Phoenix
+Might of the Kami
+3 Katana of Fire - exp
+2 Bo of Water
+Creating Order (FL)
+
+Ring of Water (Celestial)
+Ring of Air (Celestial)
+
+Proxy Item: "Flame Katana"
+Proxy Item: "Water Bo"
+Proxy Personality: "Phoenix Yojimbo"

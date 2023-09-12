@@ -1,0 +1,61 @@
+Legality: Celestial
+Shiro Daidoji
+
+Border Keep (Celestial)
+Bamboo Harvesters - exp (FL)
+
+Doji Domotai - exp4
+Doji Hakuseki - exp2
+Kakita Kensho-in - exp
+Kakita Noritoshi - exp3
+Kakita Hideo - exp
+Kakita Aichiko
+3 Kakita Kado
+3 Kakita Hideo
+3 Kakita Sadaka
+3 Kakita Yosuga
+Doji Kato
+Asahina Beniha - exp
+Otomo Seimi
+Asahina Ekei - exp
+
+3 Marketplace (Celestial)
+2 Acrobat Troupe (Celestial)
+2 My Father's Shrine
+3 Rich Coffers
+Traveling Peddler (GotE)
+Family Histories
+Kitsune Den
+Shrine to Hotei
+
+Well-Defended Border
+Toshi Ranbo
+Doji's Guidance
+The Badgers Live
+
+Fruitless Search
+
+3 Impromptu Duel (Celestial)
+3 Imperial Adjudication
+3 Duel of Haiku
+3 Awed Witness (tDoW)
+
+3 Steel on Steel (Celestial)
+2 Impetuous Challenge
+
+2 My Life Is Yours
+3 Fear Me!
+2 Weigh the Cost
+3 Hamstrung
+3 Wall of Honor (PotD)
+2 Snow-Swept Summit
+2 Outer Walls
+
+Creating Order (FL)
+A Game of Dice (FL)
+Ring of the Void (WoH)
+Ring of Fire (Celestial)
+Heavenly Blade of the Crane
+
+Proxy Follower: "Toshi Ranbo Guard"
+Proxy Personality: "Witness"

@@ -1,0 +1,53 @@
+Legality: Celestial
+Seven Seas Port
+
+Border Keep - exp (FL)
+Bamboo Harvesters (Celestial)
+
+Yoritomo Saburo - exp
+3 Kitsune Iwarou
+3 Tsuruchi Toburo
+3 Tsuruchi Ohashi
+3 Yoritomo Haruhiko
+3 Tsuruchi Gosho (TH)
+
+3 Kitsune Ando
+3 Tsuruchi Suzuki
+
+3 Tsi Mokotsu
+3 Kobune Port (Celestial)
+3 Famous Bazaar (Celestial)
+2 Traveling Peddler (GotE)
+2 Ageless Shrine
+Shrine to Yoritomo
+
+2 Farmlands
+Alter History (EaW)
+Yoritomo's Guidance
+
+2 Strategic Strike (PotD)
+2 Low Stance
+2 Well Scouted Target
+3 Sundering Strike
+3 Disrupting Communication
+3 The Cost of Pride
+2 A Yojimbo's Duty (FL)
+
+3 Seeking the Truth
+3 Dangerous Reconnaissance
+2 Military Assessment
+2 We Stand Ready
+2 Waylay the Messenger
+2 Concentrated Fire
+
+Creating Order (FL)
+
+3 Scout Armor
+3 Pearl of Embers
+
+Ring of the Void (WoH)
+Ring of Water (Celestial)
+
+Proxy Follower: "Men at Arms"
+Proxy Follower: "Farmland Conscripts"
+Proxy Item: "Tsi Weapon"

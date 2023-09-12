@@ -1,0 +1,57 @@
+Legality: Celestial
+Shiro Daidoji
+
+Border Keep (Celestial)
+Bamboo Harvesters - exp (FL)
+
+Daidoji Akagi - exp2
+Daidoji Yuki - exp
+Daidoji Yaichiro - exp
+3 Daidoji Yuki
+3 Daidoji Ebizo
+3 Daidoji Sadayori
+2 Daidoji Kirimi
+3 Daidoji Sakihiko
+3 Daidoji Masafuni
+
+Asahina Beniha - exp
+Asahina Ekei - exp
+
+Revered Sensei (GotE)
+Traveling Peddler (GotE)
+Chugo Seido
+2 Ageless Shrine
+3 Famous Bazaar (Celestial)
+3 Marketplace (Celestial)
+3 Tsi Mokotsu
+
+3 Mouth of the Plague
+Ekibyogami's Spite
+
+3 Seeking the Truth
+2 Waylay the Messenger
+2 Secured Borders
+
+3 Well Scouted Target
+3 Plagued Terrain
+2 Strategic Strike
+
+3 Shameful and Cowardly
+2 Proper Deference
+
+3 The Trap is Sprung! (tPW)
+3 Disrupting Communication
+
+3 Hasty Evaluation
+3 Superior Mobility
+
+3 A Yojimbo's Duty
+
+Creating Order (FL)
+A Game of Dice (FL)
+
+Ring of Water (Celestial)
+Ring of the Void (WoH)
+
+Proxy Item: "Tsi Weapon"
+Proxy Follower: "Infantry Follower"

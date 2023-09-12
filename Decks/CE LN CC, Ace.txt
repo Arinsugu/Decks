@@ -1,0 +1,56 @@
+Legality: Celestial
+Central Castle (CE15MRP)
+
+Border Keep - exp (FL)
+Bamboo Harvesters (Celestial)
+
+3 Akodo Senzo
+2 Akodo Kusamoto
+3 Akodo Raemon
+2 Akodo Seiichi
+Akodo Shigetoshi - exp2
+Akodo Tsudoken
+Akodo Ryozo
+Akodo Kobi - exp
+Akodo Kurogane
+Akodo Shunori - exp
+3 Matsu Kasei
+3 Akodo Kamina
+Ikoma Igawa
+
+3 Copper Mine (Celestial)
+3 Famous Bazaar (Celestial)
+3 Ageless Shrine
+3 Remote Village (SC)
+Revered Sensei
+Chugo Seido (DaK)
+Traveling Peddler (GotE)
+
+Farmlands
+Akodo's Guidance
+
+De Bellis Yoditorum
+Hiroshi's Legion
+3 Satoshi's Dual Warfans
+Ring of the Void (WoH)
+
+Ultimate Sacrifice
+Creating Order (FL)
+A Game of Dice (FL)
+
+3 Will
+2 Your Clan Needs You!
+3 Shatter the Line
+3 Countermove
+3 The Cost of Pride
+3 Dislodge the Foe
+3 Consideration
+2 Know No Fear
+2 Control the Board
+3 Thorough Preparations
+2 Heart of Darkness
+2 Retribution
+
+Proxy Follower: "Infantry Follower"
+Proxy Follower: "Farmland Conscripts"
+Proxy Follower: "Benika's Pride"

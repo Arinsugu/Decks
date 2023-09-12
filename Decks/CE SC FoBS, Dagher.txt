@@ -1,0 +1,54 @@
+Legality: Celestial
+Fortress of Blackened Sight
+
+Border Keep - exp (FL)
+Bamboo Harvesters (Celestial)
+
+Bayushi Ishikura
+Bayushi Kayama
+Bayushi Orijitte
+Bayushi Miyako - exp2
+3 Bayushi Azumamoru
+3 Bayushi Shigehiro
+3 Bayushi Toshimo (FL)
+3 Shosuro Ritoru
+3 Shosuro Makiko
+2 Bayushi Kurumi
+
+3 Geisha House (Celestial)
+3 Tsi Mokotsu
+3 War Encampment (GotE)
+3 Wooden Barricade
+Tetsu Kama Mine
+Kaiu Smithy
+Traveling Peddler (GotE)
+
+Takaikabe Mura
+Plains of Resolution
+Inheriting an Heirloom
+The Lost Path
+
+Armor of the Ryu
+3 Daisho
+3 Seppun Blade
+3 Blade of Perfection
+3 Wyrmbone Katana
+2 I Carry Two Blades!
+
+3 Hundred-Fold Cut
+3 Unstoppable Cut
+3 Know No Fear
+
+2 Pinned Down
+3 Iainuki
+
+Creating Order (FL)
+3 Readied Steel
+2 Steel on Steel (Celestial)
+2 1,000 Cuts Technique
+2 Superior Mobility
+
+Ring of Water (Celestial)
+
+Proxy Item: "Tsi Weapon"
+Proxy Follower: "Disposable Troops"
