@@ -5,7 +5,6 @@ Border Keep - exp (FL)
 Bamboo Harvesters - exp (FL)
 
 Shosuro Jimen - exp2
-Bayushi Jutsushi - exp
 Bayushi Hisoka - exp
 Yogo Kazunori
 3 Bayushi Jutsushi
@@ -13,20 +12,19 @@ Yogo Kazunori
 3 Shosuro Orikasa (tPW)
 3 Shosuro Mizuno
 3 Shosuro Makiko
-3 Yogo Adi
+3 Bayushi Jou
+3 Bayushi Shibata
 
 Ignoble Demise
 Minor Blackmail
-The Second City
 
 Bayushi's Guidance
 
-Traveling Peddler (GotE)
-Counting House (Celestial)
-3 Slanderer (SC)
-3 Border Village
+2 Traveling Peddler (GotE)
+2 Counting House (Celestial)
 3 Geisha House (Celestial)
-3 Famous Bazaar (Celestial)
+3 Slanderer (SC)
+3 Tsi Mokotsu
 
 3 Veiled Menace (DaK)
 3 Shadowed Words
@@ -35,15 +33,14 @@ Counting House (Celestial)
 3 Arranged Guilt
 3 Pull the String
 3 Taxing the Scum
+3 Unfortunate Incident
+3 Legendary Feud
+3 Ambush (Celestial)
 
 2 Scars of War
-2 Bonds of Coin
 Subtle Sting
-2 Insulting Gesture
 3 Accidental Confession
-2 Spiteful Obstruction
-2 Private Whispers
-2 Deflection
-Destructive Priorities
-The Oni's Eye
+2 Destructive Priorities
+Relentless Conviction
+Ring of the Void (Celestial)
 Iweko's Journals
