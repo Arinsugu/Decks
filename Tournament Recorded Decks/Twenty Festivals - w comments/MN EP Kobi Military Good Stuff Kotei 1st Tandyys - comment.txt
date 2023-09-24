@@ -1,0 +1,58 @@
+About the deck
+
+0) Sensei
+Sensei wins the mirror mantis match. 
+Taitaken give me a mediocre battle when on offense (i mean, I will probably always have something better to do as a first, second and third battle), Shika gives me little advantage because i don't rely on spending my gold on dynasty (fate is better) and Scouts I don't run are subpar compared to guys i do run.
+And that 6PS is a short way to hell
+That being said, the expendable thing and the protection from reserve are also bonus that are not to be neglected.
+
+I) Gold scheme.
+If you haven't try such a gold scheme (focussing on 343, with some 141 and limiting 242 to the obviously broken ones) you should. Even disconsidering the abilities (Fudo!!), the money it brings is just insane. 2 FL allow to "set up" your provinces during the first turn, usually to go, at a minimum, to 19 end of T2. And it usually grows later on (most games, turn 5 and onward, personalities are the last cards i'll buy). 
+Temple of destiny is a no comment, questionable's flexibility is amazing. This and expansive range I cannot explain how good it is, you have to see it for yourself. If I plan on facing many spiders, i'll go for a 3rd questionable and prolly a third temple, probably instead of a courtroom and an expansive/courtroom
+1 plain is an excellent card, because you can't have the bad situation where it stacks with another one, and if your opponent wants to go for it, it's another Stronghold use (lose 3g, draw a card). Usually it works as a clan heartland : he always want to go elsewhere.
+This insane gold allows for a heavy fate, which gives the endgame versus probably every military deck, even the worse of Spider.
+
+II) Bodies
+Abilities on personalities are overcosted. lack of naval trait is undercosted, the non-naval guys are dramatically worse, because they are only viable as a supplement to another, naval one. Won't buy them 1st, 2nd or 3rd guy, and after that i'll probably never want to spend so much gold in dynasty, where i can have a better deal in limited phase on an attachement
+Cheap naval guys are overall better versus anything non military, and versus anything military, speed and cavalry/conqueror/towerbuilding is just better than anything other bodies can offer
+Ofc I don't count Yusuke as a dude, even though I often attack with it. I sometime build him into a superunit :)
+
+III) Gold/bodies balance, events
+I can count it as 22 holdings, 18 bodies. I never, ever have unspent gold, and i could cut some bodies to get glimpses and some political meta (probably Military Alliance).
+
+IV) Attachments
+Imho, choice isn't as relevant as that, but i think these are the best. Amount, stats and price, are the key numbers here
+
+V) Fate versatility (also called the "wtf is this fate??" aspect)
+I had no idea what was dangerous, and what I should fear (beside Wounded) so I have an amazing amount of red card that are multi-usage. 
+Lookout post is mantis meta + pseudo conqueror + "oh Crap, why did I ever come here"
+Courage is the best "conquerorizer" + pseudo battle action
+Ideological is a offensive battle + pseudo conqueror + "oh Crap, why did I ever come here"
+Strength in subtlety does so many different things i can't name them all
+call of battle Summons meta + Conqueror
+Return to your feet is a mix of way of the mantis + call of battle.
+etc...
+
+having 3 of each card isn't important, having x solutions to a specific problem is. That being said, nothing comes close to standing fast so it is and stays a 3x, and a very big reason to this diverse fate is that I had absolutely no time to test, and couldn't choose which to keep
+
+VI) In stillness and card draw
+I run kensais only to get in stillness and because the guy aren't bad either. I would probably run sasada, more Teihiko/raiden if not, and perhaps Matsuo could com in as a replacement for someone >= expensive.
+This, coupled with card draw (stronghold, destined) and fate versatility is just broken. Obviously you never use it to equip a weapon, you just use it as a kata that say "draw 3 good cards per turn". Try it, You'll be amazed
+
+VII) Generic Strategy
+Actually it's pretty straightforward
+Versus military, you rely on towerbuilding, and naval kill to scare him away, so that you can avoid opposition for a time. You can blitz but you don't need to blitz, Money + fate give you the endgame.
+Conqueror wins the province trading, it says your opponent can never split, and soon cannot attack unless going all in. Cav + the ability to put 20 or more gold on the table before attacking mean you can easily split, so at some point he will be running after you and that's the ball game. If you start a turn with him having only 1 province, you've won, either now or later, because you just outbuild him by a magnitude.
+Also, sometime you can just go for all 3 because you have 3 naval dudes, a shitload of stuff in hand, and he kept only 1 naked defender.
+
+You are incredibly sensitive to COaaT and wounded, so as much as possible try to keep your units as small ones (Raja can go with another attachement, as it is seldom useful by itself and can be a protection). That has to be balanced with the need for speed, the ability to navalrange opposition, and to win the standing fast contest. But getting pigeonholed into having too little, too big units is very appealing, don't listen to the sirens. I lost finals because of this
+
+Versus Political, that's where the dynasty shines. You have useless fate cards (attachement aren't) so don't be afraid to discard some. Draw, build your economy, and buy bodies. You pay F at a very efficient ratio dynastywise, not fatewise. Don't be greedy, spend as little on attachements as possible until you've capped your ability to buy your dynasty (well, you still need that naval removal, and threatening one more province is always good, but...)
+
+You can blitz but you don't have to. Usually I focus on buying as much gold as i can for two turns, but oftentime a body arrives and attacking turn 3 is almost free. This has one exception : if your opponent is military and he has someone, then you want someone, now. Not to defend, but because your best plan is to match his speed, trade province for province, and have that big unit saying "you can't face me with half your board" asap. Delay opposition as long as possible, to get as many standing fast as possible for the last battle, wheter it's on your provinc or on his, it's irrelevant
+
+Going second means two things: 
+A) the starting mantis cannot seriously threaten on turn 3 (with the exception of Monty's Blitz deck, which is already addressed). This deck (or any mantis deck running a good load of attachement and cheap peeps), when going second, can. And hence would be would be the "acting" first player at no cost (because it can end turn 2 with the same gold production as the starting mantis, but one 3F dude on the board)
+B) Mantis can hardly build a gold scheme that is consistent when going first, and when going second. I'm guessing starting might just screw his gold by itself
+
+Also It wastes opponent's Yusuke (He buys it, I use Kobi, he is bowed, and cannot produce gold. That is dramatic for him)

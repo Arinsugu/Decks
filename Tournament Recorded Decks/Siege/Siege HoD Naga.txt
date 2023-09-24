@@ -1,0 +1,39 @@
+Legality: Legacy
+
+1 Knot of Serpents
+
+4 Breeding Grounds 
+4 Clutch of Eggs
+4 Pearl Cache
+6 Treacherous Growth
+4 Askett
+4 The Niskara
+4 The Qeltash
+1 The Quelsa, the Forbidden Jakla - exp
+3 The Riddiqesh
+1 The Shakash, the Will of the Knot - exp2
+1 The Sleepless One, Keeper of the Pearl - exp
+4 The Teskath
+
+4 Corrupted Wildlife
+4 Asp Spear
+1 The Akasha
+4 Baseless Rage
+4 Brutal Strike
+3 Cursed Resolve
+4 Gathering
+4 Inevitability
+4 Malevolence
+4 Serpent Tunnels
+4 Warlord's Command
+
+Proxy Personality: Asp Warrior
+Proxy Personality: The Dark Naga, the Heart of Darkness - exp2
+
+Proxy Personality: Artisan District
+Proxy Personality: Imperial District
+Proxy Personality: Merchant District
+Proxy Personality: Military District
+Proxy Personality: Peasant District
+Proxy Personality: Temple District
+
